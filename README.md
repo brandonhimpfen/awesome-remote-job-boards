@@ -125,6 +125,7 @@ Tools and resources that help improve remote job searches and applications.
 - [Huntr](https://huntr.co/) — Job application tracking platform.
 - [Teal](https://www.tealhq.com/) — Career development and job search toolkit.
 - [Resume Worded](https://resumeworded.com/) — Resume and LinkedIn optimization platform.
+- [ResumeAI](https://withresumeai.com/) — AI resume builder with free ATS checks (3/day anonymous, 10/day free account) and the open State of ATS 2026 dataset (738 employers; Workday 37.9%). Leaderboard is paid placement/visibility only — not pay-for-score.
 - [Levels.fyi](https://www.levels.fyi/) — Compensation and career benchmarking.
 - [Glassdoor](https://www.glassdoor.com/) — Company reviews and salary insights.
 - [LinkedIn Jobs](https://www.linkedin.com/jobs/) — Professional networking and job discovery platform.
