@@ -37,6 +37,7 @@ Platforms featuring remote opportunities across multiple industries and discipli
 - [Jobspresso](https://jobspresso.co/) — Curated remote jobs in technology, marketing, and support.
 - [Working Nomads](https://www.workingnomads.com/) — Remote jobs for professionals and digital nomads.
 - [Remote Jobs](https://remotejobs.com/) — Global remote job marketplace.
+- [RobotTraining.jobs](https://robottraining.jobs/remote-robot-training-jobs) - Remote robot-training jobs such as robot teleoperation and at-home video capture for AI training, with posted pay.
 
 ## Technology & Developer Job Boards
 
