@@ -74,6 +74,7 @@ Marketplaces for freelance, independent, and project-based work.
 - [Contra](https://contra.com/) — Commission-free freelance marketplace.
 - [Guru](https://www.guru.com/) — Freelance project platform.
 - [Braintrust](https://www.usebraintrust.com/) — Decentralized talent network.
+- [AI Trainer Jobs](https://aitrainer.jobs/) — Remote contract jobs in AI training, data annotation and model evaluation.
 
 ## Design & Creative Roles
 
