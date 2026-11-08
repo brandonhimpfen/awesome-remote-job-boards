@@ -72,6 +72,7 @@ Marketplaces for freelance, independent, and project-based work.
 - [Freelancer](https://www.freelancer.com/) — Project marketplace for freelancers.
 - [PeoplePerHour](https://www.peopleperhour.com/) — Freelance platform for digital services.
 - [Contra](https://contra.com/) — Commission-free freelance marketplace.
+- [chainjobs](https://chainjobs.app/) —  A free Web3 and freelance job board with 0% platform commission.
 - [Guru](https://www.guru.com/) — Freelance project platform.
 - [Braintrust](https://www.usebraintrust.com/) — Decentralized talent network.
 
