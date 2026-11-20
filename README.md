@@ -74,6 +74,7 @@ Marketplaces for freelance, independent, and project-based work.
 - [Contra](https://contra.com/) — Commission-free freelance marketplace.
 - [Guru](https://www.guru.com/) — Freelance project platform.
 - [Braintrust](https://www.usebraintrust.com/) — Decentralized talent network.
+- [Freelance Club](https://fwork.club/en?utm_source=awelist&utm_medium=github&utm_campaign=links1) — Freelance marketplace with USDT escrow; the client funds the task first and payment releases after approval.
 
 ## Design & Creative Roles
 
